@@ -1,4 +1,4 @@
-# eShop Reference Application - "AdventureWorks" - Test .net 8
+# eShop Reference Application - "AdventureWorks" - Test .net 8 try 2
 
 A reference .NET application implementing an e-commerce website using a services-based architecture using [.NET Aspire](https://learn.microsoft.com/dotnet/aspire/).
 
